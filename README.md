@@ -4,3 +4,11 @@ this is an example on how to use [auto layout](https://developer.apple.com/libra
 I'll be writting an "Rubymotion/MacRuby Auto Layout Guide" in the next few weeks.
 
 ![screenshot](https://github.com/seanlilmateus/Rubymotion-Auto-Layout/blob/master/Screen_Shot.PNG?raw=true "Screenshot")
+
+
+This example illustrates both NSLayoutConstraint creation form:
+	- Create constraints described by an ASCII art-like visual format string
+	- Create a constraint of the form
+to test this, you can use either ALViewController#layout_subviews2 or ALViewController#layout_subviews in the ALViewController#viewDidLoad method.
+
+have fun!!!
