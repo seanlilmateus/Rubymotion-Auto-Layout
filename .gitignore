@@ -3,3 +3,12 @@ build
 resources/*.nib
 resources/*.momd
 resources/*.storyboardc
+tags
+# common annoyance editors
+.DS_Store
+nbproject
+.redcar
+*.swp
+*.swo
+~
+.eprj
